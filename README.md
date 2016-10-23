@@ -1,4 +1,6 @@
 # full-stack-react-voting-spa
+app enables you to create polls and share them amongst your friends. app is continuously
+deployed on aws by way of travis ci
 
 ##Getting Started
 1. Clone repo to your machine
