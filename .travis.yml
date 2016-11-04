@@ -9,6 +9,6 @@ deploy:
         secret_access_key: $AWS_SECRET_KEY
         bucket: $AWS_BUCKET
         key: index.html
-        #acl: public_read
+        acl: public_read
         localdir: ./client
-        application: MyApp
+  
